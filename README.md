@@ -1,6 +1,6 @@
-# Hi, 👋 I am Konstantin
+<h1 align="center">Hi, 👋 I am Konstantin</h1>
 
-I am a JavaScript developer working on interesting projects to expand my skillset. I love working with JavaScript and React. I am learning TypeScript right now and I like it 😄
+<p align="center">I am a JavaScript developer working on interesting projects to expand my skillset. I love working with JavaScript and React. I am learning TypeScript right now and I like it 😄</p>
 
 <!--
 **humbl3man/humbl3man** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
