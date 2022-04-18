@@ -1,4 +1,6 @@
-### Hi there 👋
+# Hi, 👋 I am Konstantin
+
+I am a JavaScript developer working on interesting projects to expand my skillset. I love working with JavaScript and React. I am learning TypeScript right now and I like it 😄
 
 <!--
 **humbl3man/humbl3man** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
