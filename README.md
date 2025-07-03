@@ -4,6 +4,6 @@ I’m a **full stack developer** who loves building clean, fast, and user-friend
 Passionate about solving real problems with code and bringing ideas to life.
 
 - 🔧 Tech enthusiast — always exploring new tools and frameworks  
-- ❤️ Especially love working with **Svelte**  
+- ❤️ Experienced in React, but love working with **Svelte**  
 - 🧠 Detail-oriented and focused on writing solid, maintainable code  
 - 🧩 Natural problem solver who enjoys untangling complex challenges 
